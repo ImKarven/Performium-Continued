@@ -2,7 +2,7 @@
 Fork of the Performium modpack to continue supporting newer Minecraft versions.
 A lightweight, performance-focused Fabric modpack designed to enhance Minecraft with refined visuals, seamless textures, and quality-of-life improvements..
 
-> This repository contains **configuration files, manifests, and issue tracking** for the Performium: Continued modpack.
+> This repository is for **issue tracking** for the Performium: Continued modpack.
 > **No mod JARs are distributed here.**
 
 ## About Performium
@@ -27,7 +27,7 @@ Tested and used with:
 - ATLauncher
 
 ## Installation
-Performium is distributed via **Modrinth**.
+Performium: Continued is distributed via **Modrinth**.
 
 👉 Install using the **[Modrinth App](https://modrinth.com/app)**  
 Search for **Performium: Continued** and install the latest version.
@@ -45,7 +45,7 @@ If you encounter an issue, please **open a GitHub Issue** and include:
 - Steps to reproduce
 
 ## Versioning
-Performium uses a structured semantic versioning system:
+Performium: Continued uses a structured semantic versioning system:
 
 v[ModpackVersion]-[Stage]+[Build]
 
