@@ -1,18 +1,8 @@
-# ⚠️ Important Notice
-**I, unfortunately, have decided to archive Performium.** This is a personal choice of mine and I've basically lost all motivation to work on this project as a whole. Also, with the fact that I just left Membercat Studios and have brought the project with me, I feel like now would be a good time to say goodbye and halt all updates.
-
-If you're looking for alternative projects to use, I recommend the following:
-- [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)
-- [Addivtive](https://modrinth.com/modpack/additive)
-- [Remarkably Optimized](https://modrinth.com/modpack/remarkably)
-
----
-
-# Performium
-
+# Performium: Continued
+Fork of the Performium modpack to continue supporting newer Minecraft versions.
 A lightweight, performance-focused Fabric modpack designed to enhance Minecraft with refined visuals, seamless textures, and quality-of-life improvements..
 
-> This repository contains **configuration files, manifests, and issue tracking** for the Performium modpack.  
+> This repository contains **configuration files, manifests, and issue tracking** for the Performium: Continued modpack.
 > **No mod JARs are distributed here.**
 
 ## About Performium
@@ -40,7 +30,7 @@ Tested and used with:
 Performium is distributed via **Modrinth**.
 
 👉 Install using the **[Modrinth App](https://modrinth.com/app)**  
-Search for **Performium** and install the latest version.
+Search for **Performium: Continued** and install the latest version.
 
 ## Repository Purpose
 This repository exists to:
@@ -71,5 +61,5 @@ v[ModpackVersion]-[Stage]+[Build]
 
 ## Support & Community
 - Bug reports & suggestions: **GitHub Issues**
-- Community & updates: **[Discord](https://discord.membercat.com)**
-- Contact: `me@maybeizen.space`
+- Community & updates: None
+- Contact: `karven@atomicmail.io`
