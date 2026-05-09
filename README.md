@@ -24,7 +24,6 @@ Tested and used with:
 - Debian-based Linux distributions
 - Modrinth App
 - Prism Launcher
-- ATLauncher
 
 ## Installation
 Performium: Continued is distributed via **Modrinth**.
